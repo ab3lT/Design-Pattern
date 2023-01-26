@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="strategy with abstract class">
+    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="strategy with Interface">
       <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/AmexStrategy2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/ValidationStratageyI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/StrategyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/StrategyDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674737511332</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="strategy with Interface">
+      <created>1674738108461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674738108461</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +175,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="strategy dp implementation using Collections soring" />
     <MESSAGE value="strategy with abstract class" />
-    <option name="LAST_COMMIT_MESSAGE" value="strategy with abstract class" />
+    <MESSAGE value="strategy with Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="strategy with Interface" />
   </component>
 </project>
