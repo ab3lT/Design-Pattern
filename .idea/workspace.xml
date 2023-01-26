@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="strategy dp implementation using Collections soring">
-      <change afterPath="$PROJECT_DIR$/Java/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/Strategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/src/Comparator/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/src/Comparator/StrategyEverydayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/StrategyDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/AmexStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/StrategyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/ValidationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/VisaStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern Java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Strategy/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,10 +52,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StrategyEverydayDemo">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seabe\Desktop\Design Pattern\Java\Strategy\StrategyDemo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StrategyDemo">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Design Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyDemo" />
+      <module name="StrategyDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrategyDemo" />
         <item itemvalue="Application.StrategyEverydayDemo" />
         <item itemvalue="Application.Main" />
       </list>
@@ -90,7 +109,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674652344723</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="strategy dp implementation using Collections soring">
+      <created>1674731358893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674731358895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="strategy dp implementation using Collections soring">
+      <created>1674731461824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674731461824</updated>
+    </task>
+    <task id="LOCAL-00004" summary="strategy dp implementation using Collections soring">
+      <created>1674733241083</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674733241083</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
