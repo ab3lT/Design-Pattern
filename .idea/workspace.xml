@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="adding address to the memento" />
+    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="strategy with Interface">
+      <change afterPath="$PROJECT_DIR$/Java/Memento/Memento.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Memento/src/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Memento/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Memento/src/EmployeeMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Memento/src/MementoDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,21 +159,7 @@
       <option name="project" value="LOCAL" />
       <updated>1674738141800</updated>
     </task>
-    <task id="LOCAL-00008" summary="Memento undo revert functionality">
-      <created>1674745605886</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1674745605886</updated>
-    </task>
-    <task id="LOCAL-00009" summary="adding address to the memento">
-      <created>1674746213152</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1674746213152</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,8 +193,6 @@
     <MESSAGE value="strategy dp implementation using Collections soring" />
     <MESSAGE value="strategy with abstract class" />
     <MESSAGE value="strategy with Interface" />
-    <MESSAGE value="Memento undo revert functionality" />
-    <MESSAGE value="adding address to the memento" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding address to the memento" />
+    <option name="LAST_COMMIT_MESSAGE" value="strategy with Interface" />
   </component>
 </project>
