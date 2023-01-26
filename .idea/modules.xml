@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Design Pattern.iml" filepath="$PROJECT_DIR$/Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Java/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>
