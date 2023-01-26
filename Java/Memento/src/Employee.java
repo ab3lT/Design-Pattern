@@ -32,14 +32,15 @@ public class Employee {
 
     @Override
     public String toString() {
-        return name + " : " + phone;
+        return "Name : "+ name + ", Phone: " + phone + ", Address : " + address;
     }
 
     public EmployeeMemento save(){
-        return new EmployeeMemento(name, phone);
+        return new EmployeeMemento(name, phone, address);
     }
     public void revert(EmployeeMemento emp){
         this.name = emp.getName();
         this.phone = emp.getPhone();
+        this.address = emp.getAddress();
     }
 }

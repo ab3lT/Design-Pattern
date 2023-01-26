@@ -11,6 +11,8 @@ public class MementoDemo {
 
         caretaker.save(emp);
         emp.setPhone("444-555-6666");
+        emp.setName("Abebe");
+        emp.setAddress("Welkayt");
         caretaker.save(emp);
         System.out.println("Employe after changed phone number save:      " + emp );
 
@@ -23,5 +25,8 @@ public class MementoDemo {
 
         caretaker.revert(emp);
         System.out.println("Revereted to original:                  "   +emp);
+
+//        caretaker.revert(emp);
+//        System.out.println("Reverted to empity:     "+ emp);
     }
 }
