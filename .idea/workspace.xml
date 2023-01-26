@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="strategy with Interface">
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/AmexStrategy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/ValidationStratageyI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Memento/Memento.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Memento/src/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Memento/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Memento/src/EmployeeMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Memento/src/MementoDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/StrategyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/StrategyDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +57,17 @@
       <recent name="C:\Users\seabe\Desktop\Design Pattern\Java\Strategy\StrategyDemo\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StrategyDemo">
+  <component name="RunManager" selected="Application.MementoDemo">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Design Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MementoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MementoDemo" />
+      <module name="Memento" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MementoDemo" />
         <item itemvalue="Application.StrategyDemo" />
         <item itemvalue="Application.StrategyEverydayDemo" />
         <item itemvalue="Application.Main" />
@@ -142,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674738108461</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="strategy with Interface">
+      <created>1674738141800</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674738141800</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
