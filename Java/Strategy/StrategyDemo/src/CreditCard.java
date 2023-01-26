@@ -3,13 +3,13 @@ public class CreditCard {
     private String date;
     private String cvv;
 
-    private ValidationStrategy strategy;
-    public CreditCard(ValidationStrategy strategy){
+    private ValidationStratageyI strategy;
+    public CreditCard(ValidationStratageyI strategy){
         this.strategy = strategy;
     }
 
     public boolean isVaid(){
-        return strategy.isValid(this);
+        return strategy.IsValid(this);
     }
 
     public String getNumber() {
@@ -36,11 +36,11 @@ public class CreditCard {
         this.cvv = cvv;
     }
 
-    public ValidationStrategy getStrategy() {
+    public ValidationStratageyI getStrategy() {
         return strategy;
     }
 
-    public void setStrategy(ValidationStrategy strategy) {
+    public void setStrategy(ValidationStratageyI strategy) {
         this.strategy = strategy;
     }
 }

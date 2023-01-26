@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="strategy dp implementation using Collections soring">
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/StrategyDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/AmexStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/StrategyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/ValidationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/VisaStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="strategy with abstract class">
+      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/AmexStrategy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/ValidationStratageyI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -130,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674733241083</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="strategy with abstract class">
+      <created>1674737511332</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674737511332</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="strategy dp implementation using Collections soring" />
-    <option name="LAST_COMMIT_MESSAGE" value="strategy dp implementation using Collections soring" />
+    <MESSAGE value="strategy with abstract class" />
+    <option name="LAST_COMMIT_MESSAGE" value="strategy with abstract class" />
   </component>
 </project>
