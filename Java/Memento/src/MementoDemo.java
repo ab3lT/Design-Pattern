@@ -23,5 +23,8 @@ public class MementoDemo {
 
         caretaker.revert(emp);
         System.out.println("Revereted to original:                  "   +emp);
+
+//        caretaker.revert(emp);
+//        System.out.println("Reverted to empity:     "+ emp);
     }
 }
