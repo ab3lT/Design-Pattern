@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="strategy with Interface">
-      <change afterPath="$PROJECT_DIR$/Java/Memento/Memento.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Memento/src/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Memento/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Memento/src/EmployeeMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Memento/src/MementoDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Singleton/Singleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Singleton/src/DbSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Singleton/src/DbSingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Singleton/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -57,10 +56,17 @@
       <recent name="C:\Users\seabe\Desktop\Design Pattern\Java\Strategy\StrategyDemo\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MementoDemo">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DbSingletonDemo">
+    <configuration name="DbSingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DbSingletonDemo" />
+      <module name="Singleton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Design Pattern" />
+      <module name="Singleton" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,10 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DbSingletonDemo" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MementoDemo" />
         <item itemvalue="Application.StrategyDemo" />
         <item itemvalue="Application.StrategyEverydayDemo" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

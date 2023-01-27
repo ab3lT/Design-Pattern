@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Design Pattern.iml" filepath="$PROJECT_DIR$/Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Memento/Memento.iml" filepath="$PROJECT_DIR$/Java/Memento/Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Java/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Java/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Strategy/StrategyDemo/StrategyDemo.iml" filepath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/StrategyDemo.iml" />
     </modules>
