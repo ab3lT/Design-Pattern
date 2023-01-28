@@ -2,31 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="Factory Using Calender Util">
-      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/FactoryEverydayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Creational/Singleton/Singleton.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/AboutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/ContactPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/ItemPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/PostPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebSiteFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Memento/Memento.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Memento/Memento.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Memento/src/Caretaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Memento/src/Caretaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Memento/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Memento/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Memento/src/EmployeeMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Memento/src/EmployeeMemento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Memento/src/MementoDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Memento/src/MementoDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Singleton/Singleton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/Factory Method.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Singleton/src/DbSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Singleton/src/DbSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Singleton/src/DbSingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Singleton/src/DbSingletonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Singleton/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Singleton/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/Strategy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/Strategy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/StrategyDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/StrategyDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/AmexStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/AmexStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/AmexStrategy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/AmexStrategy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/StrategyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/StrategyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/ValidationStratageyI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/ValidationStratageyI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/ValidationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/ValidationStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/StrategyDemo/src/VisaStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/VisaStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/src/Comparator/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/src/Comparator/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/src/Comparator/StrategyEverydayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/src/Comparator/StrategyEverydayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strategy/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Creational/Factory Method/src/FactoryEverydayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/FactoryEverydayDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674908211283</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Factory Using Calender Util">
+      <created>1674919679099</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674919679099</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
