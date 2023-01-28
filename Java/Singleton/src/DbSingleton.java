@@ -4,7 +4,7 @@ public class DbSingleton {
 
 
     // lazy loading
-    private static DbSingleton instance = null;
+    private static  DbSingleton instance = null;
 
     private DbSingleton(){
 
@@ -16,4 +16,6 @@ public class DbSingleton {
         }
         return instance;
     }
+
+
 }

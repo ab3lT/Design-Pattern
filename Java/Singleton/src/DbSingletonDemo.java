@@ -3,8 +3,13 @@ public class DbSingletonDemo {
         DbSingleton instance = DbSingleton.getInstance();
         System.out.println(instance);
 
+
+        // Checking for singleton
         DbSingleton anotherInstance = DbSingleton.getInstance();
 
         System.out.println(anotherInstance);
+
     }
+
+
 }

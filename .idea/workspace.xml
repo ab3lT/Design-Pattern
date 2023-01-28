@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="Singleton with RunEnv and with Single Demo Singleton">
+    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="lazy loading singleton">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/Singleton/src/DbSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Singleton/src/DbSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Singleton/src/DbSingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Singleton/src/DbSingletonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674835833345</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lazy loading singleton">
+      <created>1674836331873</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674836331873</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +213,7 @@
     <MESSAGE value="strategy with abstract class" />
     <MESSAGE value="strategy with Interface" />
     <MESSAGE value="Singleton with RunEnv and with Single Demo Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="Singleton with RunEnv and with Single Demo Singleton" />
+    <MESSAGE value="lazy loading singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="lazy loading singleton" />
   </component>
 </project>
