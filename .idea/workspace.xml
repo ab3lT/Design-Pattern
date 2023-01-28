@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="I love Factory DP">
-      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebsiteType.java" afterDir="false" />
+    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="Adding enum TO redeem the Strings">
+      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/Personal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Creational/Factory Method/src/FactoryEverydayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/FactoryEverydayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebSiteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebSiteFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebsiteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebsiteType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -200,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674921201047</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adding enum TO redeem the Strings">
+      <created>1674921814508</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674921814508</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +250,7 @@
     <MESSAGE value="removing unwanted things" />
     <MESSAGE value="Factory Using Calender Util" />
     <MESSAGE value="I love Factory DP" />
-    <option name="LAST_COMMIT_MESSAGE" value="I love Factory DP" />
+    <MESSAGE value="Adding enum TO redeem the Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding enum TO redeem the Strings" />
   </component>
 </project>

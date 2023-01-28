@@ -15,5 +15,8 @@ public class FactoryEverydayDemo {
         site = WebSiteFactory.getWebsite(WebsiteType.SHOP);
         System.out.println(site.getPages());
 
+        site = WebSiteFactory.getWebsite(WebsiteType.PERSONAL);
+        System.out.println(site.getPages());
+
     }
 }

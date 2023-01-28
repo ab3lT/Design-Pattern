@@ -7,6 +7,9 @@ public class WebSiteFactory {
             case SHOP -> {
                 return new Shop();
             }
+            case PERSONAL -> {
+                return new Personal();
+            }
             default -> {
                 return null;
             }
