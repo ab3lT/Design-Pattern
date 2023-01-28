@@ -1,10 +1,10 @@
 public class WebSiteFactory {
-    public static WebSite getWebsite(String siteType) {
+    public static WebSite getWebsite(WebsiteType siteType) {
         switch (siteType) {
-            case "blog" -> {
+            case BLOG -> {
                 return new Blog();
             }
-            case "shop" -> {
+            case SHOP -> {
                 return new Shop();
             }
             default -> {
