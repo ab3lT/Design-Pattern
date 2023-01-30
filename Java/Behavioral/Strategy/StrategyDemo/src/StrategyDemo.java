@@ -28,6 +28,12 @@ public class StrategyDemo {
 
         // using strategy with interface
         CreditCard amexChard1 = new CreditCard(new AmexStrategy2());
+        CreditCard abissiniya = new CreditCard(new VisaStrategyI());
+
+        abissiniya.setNumber("");
+        abissiniya.setCvv("");
+        abissiniya.setDate("");
+        abissiniya.isVaid();
 
         amexChard1.setNumber("379185883464283");
         amexChard1.setDate("04/2020");

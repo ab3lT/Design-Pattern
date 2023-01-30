@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/Stractural/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Java/Stractural/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Pattern.iml" filepath="$PROJECT_DIR$/Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Creational/Factory Method/Factory Method.iml" filepath="$PROJECT_DIR$/Java/Creational/Factory Method/Factory Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />

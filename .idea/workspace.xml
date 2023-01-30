@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="Adding enum TO redeem the Strings">
-      <change afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/Personal.java" afterDir="false" />
+    <list default="true" id="58e270cc-fdc3-4ef4-b8bf-d3052a94225b" name="Changes" comment="Adding more websites">
+      <change afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/VisaStrategyI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Stractural/Adapter/src/AdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Stractural/Adapter/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Stractural/Adapter/src/EmployeeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Stractural/Adapter/src/EmployeeDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Stractural/Adapter/src/EmployeeLdap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Creational/Factory Method/src/FactoryEverydayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/FactoryEverydayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebSiteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebSiteFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebsiteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Creational/Factory Method/src/WebsiteType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/StrategyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Behavioral/Strategy/StrategyDemo/src/StrategyDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,22 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/seabe/Desktop/Design Pattern/Java/Creational&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/seabe/Desktop/2-design-patterns-java-structural-m2-exercise-files",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seabe\Desktop\Design Pattern\Java\Stractural" />
       <recent name="C:\Users\seabe\Desktop\Design Pattern\Java\Strategy\StrategyDemo\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactoryEverydayDemo">
+  <component name="RunManager" selected="Application.AdapterDemo">
+    <configuration name="AdapterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdapterDemo" />
+      <module name="Adapter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DbSingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DbSingletonDemo" />
       <module name="Singleton" />
@@ -86,20 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrategyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StrategyDemo" />
-      <module name="StrategyDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdapterDemo" />
         <item itemvalue="Application.FactoryEverydayDemo" />
         <item itemvalue="Application.DbSingletonDemo" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MementoDemo" />
-        <item itemvalue="Application.StrategyDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674921814508</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding more websites">
+      <created>1674922305715</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674922305715</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +263,7 @@
     <MESSAGE value="Factory Using Calender Util" />
     <MESSAGE value="I love Factory DP" />
     <MESSAGE value="Adding enum TO redeem the Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding enum TO redeem the Strings" />
+    <MESSAGE value="Adding more websites" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding more websites" />
   </component>
 </project>
